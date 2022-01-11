@@ -1,7 +1,7 @@
 ### <div align="center"><h2>Olá eu sou <strong> Paulo Miguel!</strong> 👋</h2></div>
 
 <div align="center">
-Formado em Logística, e apaixonado por tecnologia, atualmentecurso Desenvolvimento Fullstack pela Recode Pro e pelaUdemy. Sou, ainda, técnico de informática. Inglês intermediário.
+Formado em Logística, e apaixonado por tecnologia, atualmente curso Desenvolvimento Fullstack pela Recode Pro e pelaUdemy. Sou, ainda, técnico de informática. Inglês intermediário.
 </div>
 
 ## <h1>Contatos</h1>
