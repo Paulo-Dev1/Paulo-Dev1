@@ -1,7 +1,7 @@
 ### <div align="center"><h2>Olá eu sou <strong> Paulo Miguel!</strong> 👋</h2></div>
 
 <div align="center">
-Apaixonado por tecnologia. Técnico de informática,  Desenvolvimento Fullstack pela Recode Pro e pelaUdemy Inglês intermediário.
+Sou o Paulo Miguel Apaixonado por tecnologia. Técnico de informática,  Desenvolvedor Back-end.
 </div>
 <br/>
 
