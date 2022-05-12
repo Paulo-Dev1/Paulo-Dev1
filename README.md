@@ -1,7 +1,15 @@
 ### <div align="center"><h2>Olá eu sou <strong> Paulo Miguel!</strong> 👋</h2></div>
 
 <div align="center">
-Sou o Paulo Miguel Apaixonado por tecnologia. Técnico de informática,  Desenvolvedor Back-end.
+Sou o Paulo Miguel Apaixonado por tecnologia. 
+
+Desenvolvedor Back-end.
+
+    Estou Trabalhando com PHP e com Framework laravel atualmente. 
+    
+    Estudando PHP e My SQL
+    
+    
 </div>
 <br/>
 
