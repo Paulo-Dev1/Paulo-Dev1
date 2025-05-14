@@ -1,7 +1,6 @@
 ### <div align="center"><h2>Olá eu sou <strong> Paulo Miguel!</strong> 👋</h2></div>
 
 <div align="center">
-Paulo Miguel
 Desenvolvedor Back-end.
 
 Atualmente trabalho com PHP/Laravel e SQL, desenvolvendo soluções para o mercado imobiliário.
