@@ -1,17 +1,19 @@
 ### <div align="center"><h2>Olá eu sou <strong> Paulo Miguel!</strong> 👋</h2></div>
 
-<div align="center">
+<div align="Center">
 Desenvolvedor Back-end.
 	
 Atualmente trabalho com PHP/Laravel e SQL, desenvolvendo soluções para o mercado imobiliário.
 Tenho me aprofundado também na área de front-end, utilizando tecnologias como React.js, TypeScript e Next.js, ampliando minha atuação para o desenvolvimento full stack.
 
+
 </div>
 <br/>
 
 
-## <h2>Conhecimentos</h2>
-<div style="display: inline-flex; align-items: center; gap: 6px;>
+<div align="inline-block">
+	
+## <h3>Tecnologias</h3>
 <img alt="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 
 <img alt="" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -31,17 +33,18 @@ Tenho me aprofundado também na área de front-end, utilizando tecnologias como 
 
 <br/>
 
-## <h2>Contatos</h2>
 
-<strong>E-mail: </strong>miguel6112@gmail.com
-
+<div align="inline-block">
+	
+## <h3>Contatos</h3>
+	
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](miguel6112@gmail.com)	
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/dev-paulo-miguel)
+</div>
 
-<br/>
+## <h3>Desenvolvimento</h3>
 
-## <h2>Desenvolvimento</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Dev1&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Dev1&showicons=true&theme=tokyonight)
 
 <br/><br/><br/>
 
