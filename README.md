@@ -1,10 +1,17 @@
 ### <div align="center"><h2>Olá eu sou <strong> Paulo Miguel!</strong> 👋</h2></div>
 
+<div align="center">
+Desenvolvedor Back-end.
+
+Atualmente trabalho com PHP/Laravel e SQL, desenvolvendo soluções para o mercado imobiliário.
+Tenho me aprofundado também na área de front-end, utilizando tecnologias como React.js, TypeScript e Next.js, ampliando minha atuação para o desenvolvimento full stack.
+
+</div>
+<br/>
 
 Sou o Paulo Miguel Apaixonado por tecnologia. 
 
-Estou atuando com PHP e com Framework laravel atualmente.   
-Estudando PHP, Laravel e My SQL.
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/dev-paulo-miguel)
 
 
 
